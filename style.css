@@ -2,32 +2,32 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: 'PT Serif', serif;
   font-style: normal;
   font-weight: normal;
   line-height: 18px;
 }
 
 body {
-  background-color: #FFFFFF;
+  background-color: #5A8F69;
 }
 
 .container {
   width: 365px;
-  background-color: #f4f4f4;
+  background-color: #F0F3CF;
   margin: 0 auto;
-  margin-top: 100px;
+  margin-top: 54px;
 }
 
 header {
-  background-color: #5B93DA;
+  background-color: #F0F3CF;
   height: 66px;
 }
 
 h1 {
   font-weight: normal;
   font-size: 24px;
-  color: #f4f4f4;
+  color: #4C8D96;
   text-align: center;
   padding-top: 22px;
 }
@@ -39,12 +39,12 @@ main {
 label {
   font-weight: 400;
   font-size: 14px;
-  color: #777777;
+  color: #4C8D96;
 }
 
 select {
   background: #FFFFFF;
-  border: 1px solid #BBBBBB;
+  border: 1px solid #2E5958;
   border-radius: 4px;
   height: 48px;
   display: block;
@@ -60,7 +60,7 @@ select {
 
 input {
   background: #FFFFFF;
-  border: 1px solid #BBBBBB;
+  border: 1px solid #2E5958;
   border-radius: 4px;
   height: 48px;
   display: block;
@@ -71,7 +71,7 @@ input {
 }
 
 button {
-  background: #1B83E2;
+  background: #01855E;
   color: #f4f4f4;
   height: 48px;
   width: 100%;
@@ -93,7 +93,7 @@ button:active {
 }
 
 section {
-  border: 1px solid #1B83E2;
+  border: 1px solid #747779;
   border-radius: 4px;
 }
 
@@ -106,11 +106,11 @@ section {
   font-weight: 400;
   font-size: 14px;
   align-items: center;
-  color: #777777;
+  color: #847A5F;
 }
 
 .currency-value {
-  color: #1B83E2;
+  color: #00A789;
   font-weight: 700;
   font-size: 20px;
   line-height: 18px;
